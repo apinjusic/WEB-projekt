@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Xiaomi</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Web stranica o Xiaomi mobitelima">
+    <meta name="keywords" content="Xiaomi, Poco, Mi, MIUI">
+    <meta name="author" content="Andrej Pinjušić">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="300">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet">
+    <title>Novosti</title>
+</head>
+
+<body>
+    <header>
+        <div class="banner">
+            <div class="navbar">
+                <img src="images/mi.png" class="logo">
+            <nav>
+            
+                <ul>
+                    <li><a href="index.html" class="cool-hover">POČETNA</a></li>
+                    <li><a href="news.html" class="cool-hover">NOVOSTI</a></li>
+                    <li><a href="gallery.html" class="cool-hover">GALERIJA</a></li>
+                    <li><a href="about.html" class="cool-hover">O NAMA</a></li>
+                    <li><a href="contact.html" class="cool-hover">KONTAKT</a></li>
+                </ul>
+            
+            </nav>
+            </div>
+        </div>
+        
+    </header>  
+ 
+   <main>
+        <h1>NOVOSTI</h1>
+        <div class="news">
+            <a href="news-5.html"><img src="https://www.chinamobilemag.de/images/easyblog_articles/7216/b2ap3_large_xiaomi-12.jpeg" alt="Xiaomi 12" title="Xiaomi 12"></a>
+            <h2>Xiaomi 12</h2>
+            <p>Xiaomi 12 najnoviji je Xiaomijev mobilni uređaj. <a href="news-5.html">Više ...</a></p>
+            <p><time datetime="2021-12-23">23 December 2021</time></p>
+            <hr>
+            <a href="news-4.html"><img src="https://cdn.andro4all.com/files/2021/12/MIUI-13-en-un-smartphone-Xiaomi.jpg?width=1200" alt="MIUI 13" title="MIUI 13"></a>
+            <h2>MIUI 13</h2>
+            <p>Xiaomi uređaji dobivaju novi MIUI 13. <a href="news-4.html">Više ...</a></p>
+            <p><time datetime="2021-11-29">29 November 2021</time></p>
+            <hr>
+            <a href="news-3.html"><img src="https://img.24sata.hr/3klcpSL0Yyu0ITtqSoKNxmalG7w=/1243x700/smart/media/images/2021-10/20210308-124536.jpg" alt="Xiaomi" title="Xiaomi"></a>
+            <h2>Xiaomi na prvom mjestu po isporuci mobitela u Hrvatskoj</h2>
+            <p>Povijesni Xiaomijev rezultat u Hrvatskoj na temelju novoobjavljenih podataka nekoliko globalnih analitičkih kuća. <a href="news-3.html">Više ...</a></p>
+            <p><time datetime="2021-11-06">6 November 2021</time></p>
+            <hr>
+            <a href="news-2.html"><img src="https://cdn.pocket-lint.com/r/s/970x/assets/images/158385-phones-news-feature-xiaomi-11t-vs-11t-pro-image1-vyi8ucz0ap-jpg.webp?v1" alt="Xiaomi 11T vs 11T Pro" title="Xiaomi 11T vs 11T Pro"></a>
+            <h2>Xiaomi 11T vs 11T Pro</h2>
+            <p>Usporedba dva moćna uređaja. Koje su razlike? <a href="news-2.html">Više ...</a></p>
+            <p><time datetime="2021-09-15">15 September 2021</time></p>
+            <hr>
+            <a href="news-1.html"><img src="https://cdni.rt.com/files/2021.05/thumbnail/609d395685f54055e8103361.JPG" alt="Xiaomi maknut s crne liste" title="Xiaomi maknut s crne liste"></a>
+            <h2>SAD uklonio Xiaomi s crne liste</h2>
+            <p>Američko ministarstvo proglasilo da je kompanija povezana s kineskom vojskom te je stavljena na listu koja onemogućava američka ulaganja. <a href="news-1.html">Više ...</a></p>
+            <p><time datetime="2021-5-12">12 May 2021</time></p>
+            <hr>
+        </div>
+   </main>
+   <footer>
+       <p>Copyright &copy; 2022 Andrej Pinjušić <a href="https://github.com/apinjusic?tab=repositories" target="_blank"><img src="https://th.bing.com/th/id/R.724794164fb289dd2f7d69dde7ac3bc0?rik=H5bTVhjLhZdHOQ&pid=ImgRaw&r=0" tittle="Github" alt="Github"></a></p>
+   </footer>
