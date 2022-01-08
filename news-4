@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" href="style.css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>MIUI 13</title>
+
+        </head>
+<body>
+        <header>
+                
+            <div class="banner">
+                <div class="navbar">
+                    <img src="images/mi.png" class="logo">
+                <nav>
+                
+                    <ul>
+                        <li><a href="index.html" class="cool-hover">POČETNA</a></li>
+                        <li><a href="news.html" class="cool-hover">NOVOSTI</a></li>
+                        <li><a href="gallery.html" class="cool-hover">GALERIJA</a></li>
+                        <li><a href="about.html" class="cool-hover">O NAMA</a></li>
+                        <li><a href="contact.html" class="cool-hover">KONTAKT</a></li>
+                    </ul>
+                
+                </nav>
+                </div>
+            </div>
+        </header>
+        <main>
+                <h1>NOVOSTI</h1>
+                <div id="news_gallery">
+                    <figure id="1">
+                        <img src="https://mobidevices.ru/images/2022/01/MIUI-13.jpg" alt="title 4" title="title 4">
+                        <figcaption>MIUI 13</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="https://xiaomiui.net/wp-content/uploads/2021/12/miui_13_logos.jpg" alt="miui 13" title="miui 13">
+                        <figcaption>MIUI 13 logo</figcaption>
+                    </figure>
+                </div>
+                <hr>
+                <div class="news">
+                    <h2>MIUI 13</h2>
+                    <p class="description">Xiaomi uređaji dobivaju novi MIUI 13.</p>
+                    <p>Nakon uspješnog MIUI 12 i 12.5 Xiaomi je spreman izbaciti MIUI 13 za korisnike.</p>
+                    <p>Iako MIUI 13 izlazi za Xiaomi uređaje, nažalost ga neće dobiti svi. Ista stvar se dogodila kod MIUI 12 kada svi uređaji nisu dobili ažuriranje.</p>
+                    <p>Na MIUI 13 možemo očekivati puno novih opcija. Novi i poboljšani UI, nove animacije i Super Live Wallpaper, poboljšanje performansi baterije, nove opcije za fotografije i mnoštvo toga.</p>
+                    <p>MIUI 13 bit će baziran na Androidu 12.</p>
+                    <p>Do kraja siječnja 2022. prva skupina uređaja će dobiti ažuriranje.</p>
+                    <p>Izvor: <a href="https://www.miuiupdates.com/2021/03/miui-13-update.html" target="_blank">miuiupdates.com</a></p>
+                    <p><a href="news.html">Natrag na vijesti</a></p>
+                </div>
+
+        </main>
+        <footer>
+            <p>Copyright &copy; 2022 Andrej Pinjušić <a href="https://github.com/apinjusic?tab=repositories" target="_blank"><img src="https://th.bing.com/th/id/R.724794164fb289dd2f7d69dde7ac3bc0?rik=H5bTVhjLhZdHOQ&pid=ImgRaw&r=0" tittle="Github" alt="Github"></a></p>
+        </footer>
+</body>
+</html>
