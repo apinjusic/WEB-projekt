@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" href="style.css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Xiaomi 11T vs 11T Pro</title>
+
+        </head>
+<body>
+        <header>
+                
+            <div class="banner">
+                <div class="navbar">
+                    <img src="images/mi.png" class="logo">
+                <nav>
+                
+                    <ul>
+                        <li><a href="index.html" class="cool-hover">POČETNA</a></li>
+                        <li><a href="news.html" class="cool-hover">NOVOSTI</a></li>
+                        <li><a href="gallery.html" class="cool-hover">GALERIJA</a></li>
+                        <li><a href="about.html" class="cool-hover">O NAMA</a></li>
+                        <li><a href="contact.html" class="cool-hover">KONTAKT</a></li>
+                    </ul>
+                
+                </nav>
+                </div>
+            </div>
+        </header>
+        <main>
+                <h1>NOVOSTI</h1>
+                <div id="news_gallery">
+                    <figure id="1">
+                        <img src="https://cdn.pocket-lint.com/r/s/970x/assets/images/158385-phones-news-feature-xiaomi-11t-vs-11t-pro-image1-vyi8ucz0ap-jpg.webp?v1" alt="title 2" title="title 2">
+                        <figcaption>11T vs 11T Pro</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="https://mi.hr/images/thumbs/0004687_xiaomi-11t_750.jpeg" alt="11t" title="11t">
+                        <figcaption>Xiaomi 11T</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="https://mi.hr/images/thumbs/0004689_xiaomi-11t-pro_750.jpeg" alt="11t pro" title="11t pro">
+                        <figcaption>Xiaomi 11T Pro</figcaption>
+                    </figure>
+                </div>
+                <hr>
+                <div class="news">
+                    <h2>Xiaomi 11T vs 11T Pro</h2>
+                    <p class="description">Usporedba dva moćna uređaja. Koje su razlike?</p>
+                    <p>Nova T serija dolazi u dva oblika: 11T i moderno poboljšanje 11T Pro. Evo koje su ključne razlike dvaju uređaja</p>
+                    <p class="description">Dizajn i display</p>
+                    <p>Oba uređaja su 6.67 inča AMOLED display sa 120Hz osvježavanja, 2400 x 1800(FHD+) rezolucijom.</p>
+                    <p>Oba uređaja dolaze u istim bojama i u istim dimenzijama</p>
+                    <p class="description">Hardware i performanse</p>
+                    <p>11T: MediaTek Dimensity 1200-Ultra, 8GB RAM</p>
+                    <p>11T Pro: Qualcomm Snapdragon 888, 8GB RAM</p>
+                    <p>Oba uređaja imaju 5000mAh bateriju, razlika je u punjenju. 11T ima 67W brzo punjenje dok 11T PRo ima 120W Xiaomi HyperCharge.</p>
+                    <p class="description">Kamera</p>
+                    <p>Oba urešaja imaju trostruku stražnju kameru.</p>
+                    <p>Glavna: 108MP, široka leća: 8MP; telemakro: 5MP i selfie kamera: 16MP. 11T Pro snima videe u 8K rezoluziji i HDR10+.</p>
+                    <p>Izvor: <a href="https://www.pocket-lint.com/phones/news/xiaomi/158385-xiaomi-11t-versus-11t-pro-differences-spec-explored" target="_blank">pocket-lint.com</a></p>
+                    <p><a href="news.html">Natrag na vijesti</a></p>                
+                </div>
+
+        </main>
+        <footer>
+            <p>Copyright &copy; 2022 Andrej Pinjušić <a href="https://github.com/apinjusic?tab=repositories" target="_blank"><img src="https://th.bing.com/th/id/R.724794164fb289dd2f7d69dde7ac3bc0?rik=H5bTVhjLhZdHOQ&pid=ImgRaw&r=0" tittle="Github" alt="Github"></a></p>
+        </footer>
+</body>
+</html>
