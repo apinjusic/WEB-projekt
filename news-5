@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" href="style.css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Xiaomi 12</title>
+
+        </head>
+<body>
+        <header>
+                
+            <div class="banner">
+                <div class="navbar">
+                    <img src="images/mi.png" class="logo">
+                <nav>
+                
+                    <ul>
+                        <li><a href="index.html" class="cool-hover">POČETNA</a></li>
+                        <li><a href="news.html" class="cool-hover">NOVOSTI</a></li>
+                        <li><a href="gallery.html" class="cool-hover">GALERIJA</a></li>
+                        <li><a href="about.html" class="cool-hover">O NAMA</a></li>
+                        <li><a href="contact.html" class="cool-hover">KONTAKT</a></li>
+                    </ul>
+                
+                </nav>
+                </div>
+            </div>
+        </header>
+        <main>
+                <h1>NOVOSTI</h1>
+                <div id="news_gallery">
+                    <figure id="1">
+                        <img src="https://www.bug.hr/img/xiaomi-predstavio-novu-seriju-flagship-pametnih-telefona--12-12-pro-i-12x__Iur5z.jpg" alt="title 5" title="title 5">
+                        <figcaption>Novi Xiaomi 12</figcaption>
+                    </figure>
+                </div>
+                <hr>
+                <div class="news">
+                    <h2>Xiaomi 12</h2>
+                    <p class="description">Xiaomi 12 najnoviji je Xiaomijev mobilni uređaj.</p>
+                    <p>Xiaomi je predstavio novu seriju flagship pametnih telefona. Riječ je o modelu 12, 12 Pro i 12X.</p>
+                    <p class="description">Xiaomi 12</p>
+                    <p>Budući da su pametni telefoni sve veći, kineska je tvrtka odlučila smanjiti svoj „standardni“ flagship. Xiaomi 12 tako dolazi sa 6,28-inčnim FHD+ AMOLED zaslonom od 120 Hz zaštićen Gorilla Glas Victusom te ispod kojeg se nalazi čitač otiska prsta.</p>
+                    <p>Za selfije je zaslužna prednja kamera od 32 MP, dok na stražnjoj strani ima tri kamere – glavnu od 50 MP sa Sonyjevim IMX766 senzorom i OIS stabilizacijom, ultraširoku od 13 MP i telemakro od 5 MP. Kao što je očekivano, pogoni ga Snapdragon 8 Gen 1 uparen s 8 ili 12 GB RAM-a i 128, odnosno 256 GB interne memorije.</p>
+                    <p>Tu je i baterija od 4,500 mAh s podrškom za 67 W žično i 50 W bežično punjenje. Početna verzija Xiaomija 12 koštat će u Kini oko 580 dolara, dok će zainteresirani za jaču inačicu trebati izdvojiti 690 dolara.</p>
+                    <p class="description">Xiaomi 12 Pro</p>
+                    <p>Pro verzija Xiaomija 12 ima 6,73-inčni QHD+ LTPO OLED zaslon od 120 Hz te brzinom uzorkovanja od 480 Hz. Dolazi s baterijom od 4,600 mAh koja se može puniti žično pri 120 W i bežično pri 50 W, a pogoni ga Snapdragon 8 Gen 1 uparen s 8, odnosno 12 GB RAM-a te 128 ili 256 GB interne memorije.</p>
+                    <p>No, nije samo bolji zaslon ono što Pro verziju čini uistinu „pro“. Xiaomi osobito ističe i tri kamere od 50 MP, od kojih glavna ima Sony IMX707 senzor, veći od onoga na Mi 11 Ultra modelu. Zahvaljujući boljoj tehnologiji, 12 Pro imat će novi CyberFocus autofokus i više mogućnosti kad je riječ o snimanju u noćnim uvjetima.</p>
+                    <p>Zainteresirani će u Kini za početnu verziju 12 Pro modela trebati dati oko 740 dolara, dok će model s više RAM-a i interne memorije koštati gotovo 100 dolara više.</p>
+                    <p class="description">Xiaomi 12X</p>
+                    <p>Kao šlag na tortu, stiže nešto slabiji Xiaomi 12X. Riječ je, naime, o uređaju koji dijeli gotovo sve specifikacije sa standardnim modelom, no umjesto Snapdragona 8 Gen 1, pogoni ga Snapdragon 870 te dolazi bez podrške za bežično punjenje.</p>
+                    <p>Budući da se kod ovog modela nema puno toga za istaknuti, valja napomenuti da je on trenutno najjeftiniji u Xiaomijevoj 12 seriji. U Kini stiže s cijenom od oko 500 dolara za najslabiju verziju, dok će ona najjača koštati oko 600 dolara.</p>
+                    <p>Izvor: <a href="https://www.bug.hr/mobiteli/xiaomi-predstavio-novu-seriju-flagship-pametnih-telefona--12-12-pro-i-12x-24962" target="_blank">bug.hr</a></p>
+                    <p><a href="news.html">Natrag na vijesti</a></p>
+                </div>
+
+        </main>
+        <footer>
+            <p>Copyright &copy; 2022 Andrej Pinjušić <a href="https://github.com/apinjusic?tab=repositories" target="_blank"><img src="https://th.bing.com/th/id/R.724794164fb289dd2f7d69dde7ac3bc0?rik=H5bTVhjLhZdHOQ&pid=ImgRaw&r=0" tittle="Github" alt="Github"></a></p>
+        </footer>
+</body>
+</html>
