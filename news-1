@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" href="style.css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>SAD uklonio Xiaomi s crne liste</title>
+
+        </head>
+<body>
+        <header>
+                
+            <div class="banner">
+                <div class="navbar">
+                    <img src="images/mi.png" class="logo">
+                <nav>
+                
+                    <ul>
+                        <li><a href="index.html" class="cool-hover">POČETNA</a></li>
+                        <li><a href="news.html" class="cool-hover">NOVOSTI</a></li>
+                        <li><a href="gallery.html" class="cool-hover">GALERIJA</a></li>
+                        <li><a href="about.html" class="cool-hover">O NAMA</a></li>
+                        <li><a href="contact.html" class="cool-hover">KONTAKT</a></li>
+                    </ul>
+                
+                </nav>
+                </div>
+            </div>
+        </header>
+        <main>
+                <h1>NOVOSTI</h1>
+                <div id="news_gallery">
+                    <figure id="1">
+                        <img src="https://cdni.rt.com/files/2021.05/thumbnail/609d395685f54055e8103361.JPG" alt="title 1" title="title 1">
+                        <figcaption>Xiaomi logo</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="https://th.bing.com/th/id/R.a8744f2df9cf58d530cf5332a43422fd?rik=wQ6bSWMIza14YA&pid=ImgRaw&r=0" alt="title 2" title="title 2">
+                        <figcaption>Xiaomi dućan</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="https://media.suara.com/pictures/970x544/2017/04/04/20929-logo-xiaomi.jpg" alt="title 3" title="title 3">
+                        <figcaption>Veliki MI logo</figcaption>
+                    </figure>
+                </div>
+                <hr>
+                <div class="news">
+                    <h2>SAD uklonio Xiaomi s crne liste</h2>
+                    <p class="description">Američko ministarstvo obrane ukloniti će s vladine crne liste kineski Xiaomi, pokazali su sudski spisi, zbog čega se otvara put budućim američkim investicijama.</p>
+                    <p>U sudskom spisu bilo je navedeno da će se dvije strane dogovoriti da razriješe postojeću parnicu bez daljnih sporova, zbog čega je okončan kratki i kontroverzni prijepor između tvrke i Washingtona.</p>
+                    <p>Xiaomi nije odgovorio odmah na upit Reutersa za komentarom.</p>
+                    <p>Ranije ove godine, američko ministarstvo obrane, pod Trumpovom administracijom, proglasilo je da je kompanija povezana s kineskom vojskom te je stavljena na listu koja onemogućava američka ulaganja u kompaniju.</p>
+                    <p>Xiaomi je brzo odgovorio tako što je protiv američke vlade podigao tužbu, nazvavši tretman "nezakonitim i neustavnim" te su zanijekali bilo kakve poveznice s kineskom vojskom.</p>
+                    <p>Pod Bidenovom administracijom, savezni sudac privremeno je blokirao aktivaciju crne liste</p>
+                    <p>Kako su se vijesti o odluci proširile, dionice Xiaomija skočile su u Hong Kongu za 6 posto.</p>
+                    <p>Izvor: <a href="https://www.24sata.hr/tech/sad-uklanja-xiaomi-s-crne-liste-761568" target="_blank">24sata.hr</a></p>
+                    <p><a href="news.html">Natrag na vijesti</a></p>
+                </div>
+
+        </main>
+        <footer>
+            <p>Copyright &copy; 2022 Andrej Pinjušić <a href="https://github.com/apinjusic?tab=repositories" target="_blank"><img src="https://th.bing.com/th/id/R.724794164fb289dd2f7d69dde7ac3bc0?rik=H5bTVhjLhZdHOQ&pid=ImgRaw&r=0" tittle="Github" alt="Github"></a></p>
+        </footer>
+</body>
+</html>
